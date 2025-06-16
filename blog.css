@@ -1,6 +1,6 @@
 body {
     background-color: hsl(47, 88%, 63%);
-    
+    margin: 100px 0 0 0;
 
 }
 
@@ -19,6 +19,11 @@ body {
     align-items: center;
     justify-content: center;
     margin-top: 31px;
+}
+.image>img {
+    align-items: center;
+    height: 200px;
+    width: 340px;
 }
 
 img {
